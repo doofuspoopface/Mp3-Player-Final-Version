@@ -1,0 +1,49 @@
+C:\Users\Mr.M.O\Desktop\GitHub\Mp3 Player Final Version\Mp3 Player Final Version\bin\Debug\Mp3 Player Final Version.exe.config
+C:\Users\Mr.M.O\Desktop\GitHub\Mp3 Player Final Version\Mp3 Player Final Version\obj\Debug\Mp3 Player Final Version.csprojResolveAssemblyReference.cache
+C:\Users\Mr.M.O\Desktop\GitHub\Mp3 Player Final Version\Mp3 Player Final Version\obj\Debug\Mp3_Player_Final_Version.Form1.resources
+C:\Users\Mr.M.O\Desktop\GitHub\Mp3 Player Final Version\Mp3 Player Final Version\obj\Debug\Mp3_Player_Final_Version.Properties.Resources.resources
+C:\Users\Mr.M.O\Desktop\GitHub\Mp3 Player Final Version\Mp3 Player Final Version\obj\Debug\Mp3 Player Final Version.csproj.GenerateResource.Cache
+C:\Users\Mr.M.O\Desktop\GitHub\Mp3 Player Final Version\Mp3 Player Final Version\bin\Debug\Mp3 Player Final Version.exe
+C:\Users\Mr.M.O\Desktop\GitHub\Mp3 Player Final Version\Mp3 Player Final Version\bin\Debug\Mp3 Player Final Version.pdb
+C:\Users\Mr.M.O\Desktop\GitHub\Mp3 Player Final Version\Mp3 Player Final Version\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Mr.M.O\Desktop\GitHub\Mp3 Player Final Version\Mp3 Player Final Version\bin\Debug\Bunifu.Core.dll
+C:\Users\Mr.M.O\Desktop\GitHub\Mp3 Player Final Version\Mp3 Player Final Version\obj\Debug\Mp3 Player Final Version.exe
+C:\Users\Mr.M.O\Desktop\GitHub\Mp3 Player Final Version\Mp3 Player Final Version\obj\Debug\Mp3 Player Final Version.pdb
+E:\Final project\AY-KALAM-master\Mp3 Player Final Version\Mp3 Player Final Version\bin\Debug\Mp3 Player Final Version.exe.config
+E:\Final project\AY-KALAM-master\Mp3 Player Final Version\Mp3 Player Final Version\bin\Debug\Mp3 Player Final Version.exe
+E:\Final project\AY-KALAM-master\Mp3 Player Final Version\Mp3 Player Final Version\bin\Debug\Mp3 Player Final Version.pdb
+E:\Final project\AY-KALAM-master\Mp3 Player Final Version\Mp3 Player Final Version\bin\Debug\taglib-sharp.dll
+E:\Final project\AY-KALAM-master\Mp3 Player Final Version\Mp3 Player Final Version\bin\Debug\Bunifu.Core.dll
+E:\Final project\AY-KALAM-master\Mp3 Player Final Version\Mp3 Player Final Version\obj\Debug\Mp3 Player Final Version.csprojAssemblyReference.cache
+E:\Final project\AY-KALAM-master\Mp3 Player Final Version\Mp3 Player Final Version\obj\Debug\Mp3_Player_Final_Version.Form1.resources
+E:\Final project\AY-KALAM-master\Mp3 Player Final Version\Mp3 Player Final Version\obj\Debug\Mp3_Player_Final_Version.Properties.Resources.resources
+E:\Final project\AY-KALAM-master\Mp3 Player Final Version\Mp3 Player Final Version\obj\Debug\Mp3 Player Final Version.csproj.GenerateResource.cache
+E:\Final project\AY-KALAM-master\Mp3 Player Final Version\Mp3 Player Final Version\obj\Debug\Mp3 Player Final Version.csproj.CoreCompileInputs.cache
+E:\Final project\AY-KALAM-master\Mp3 Player Final Version\Mp3 Player Final Version\obj\Debug\Mp3 Player Final Version.csproj.CopyComplete
+E:\Final project\AY-KALAM-master\Mp3 Player Final Version\Mp3 Player Final Version\obj\Debug\Mp3 Player Final Version.exe
+E:\Final project\AY-KALAM-master\Mp3 Player Final Version\Mp3 Player Final Version\obj\Debug\Mp3 Player Final Version.pdb
+E:\Final project\Mina's\Mp3 Player Final Version\Mp3 Player Final Version\bin\Debug\Mp3 Player Final Version.exe.config
+E:\Final project\Mina's\Mp3 Player Final Version\Mp3 Player Final Version\bin\Debug\Mp3 Player Final Version.exe
+E:\Final project\Mina's\Mp3 Player Final Version\Mp3 Player Final Version\bin\Debug\Mp3 Player Final Version.pdb
+E:\Final project\Mina's\Mp3 Player Final Version\Mp3 Player Final Version\bin\Debug\taglib-sharp.dll
+E:\Final project\Mina's\Mp3 Player Final Version\Mp3 Player Final Version\bin\Debug\Bunifu.Core.dll
+E:\Final project\Mina's\Mp3 Player Final Version\Mp3 Player Final Version\obj\Debug\Mp3 Player Final Version.csprojAssemblyReference.cache
+E:\Final project\Mina's\Mp3 Player Final Version\Mp3 Player Final Version\obj\Debug\Mp3_Player_Final_Version.Form1.resources
+E:\Final project\Mina's\Mp3 Player Final Version\Mp3 Player Final Version\obj\Debug\Mp3_Player_Final_Version.Properties.Resources.resources
+E:\Final project\Mina's\Mp3 Player Final Version\Mp3 Player Final Version\obj\Debug\Mp3 Player Final Version.csproj.GenerateResource.cache
+E:\Final project\Mina's\Mp3 Player Final Version\Mp3 Player Final Version\obj\Debug\Mp3 Player Final Version.csproj.CoreCompileInputs.cache
+E:\Final project\Mina's\Mp3 Player Final Version\Mp3 Player Final Version\obj\Debug\Mp3 Player Final Version.csproj.CopyComplete
+E:\Final project\Mina's\Mp3 Player Final Version\Mp3 Player Final Version\obj\Debug\Mp3 Player Final Version.exe
+E:\Final project\Mina's\Mp3 Player Final Version\Mp3 Player Final Version\obj\Debug\Mp3 Player Final Version.pdb
+C:\Users\doofus\Desktop\Mp3 Player Final Version\Mp3 Player Final Version\bin\Debug\Mp3 Player Final Version.exe.config
+C:\Users\doofus\Desktop\Mp3 Player Final Version\Mp3 Player Final Version\bin\Debug\Mp3 Player Final Version.exe
+C:\Users\doofus\Desktop\Mp3 Player Final Version\Mp3 Player Final Version\bin\Debug\Mp3 Player Final Version.pdb
+C:\Users\doofus\Desktop\Mp3 Player Final Version\Mp3 Player Final Version\bin\Debug\Bunifu.Core.dll
+C:\Users\doofus\Desktop\Mp3 Player Final Version\Mp3 Player Final Version\obj\Debug\Mp3 Player Final Version.csprojAssemblyReference.cache
+C:\Users\doofus\Desktop\Mp3 Player Final Version\Mp3 Player Final Version\obj\Debug\Mp3_Player_Final_Version.Form1.resources
+C:\Users\doofus\Desktop\Mp3 Player Final Version\Mp3 Player Final Version\obj\Debug\Mp3_Player_Final_Version.Properties.Resources.resources
+C:\Users\doofus\Desktop\Mp3 Player Final Version\Mp3 Player Final Version\obj\Debug\Mp3 Player Final Version.csproj.GenerateResource.cache
+C:\Users\doofus\Desktop\Mp3 Player Final Version\Mp3 Player Final Version\obj\Debug\Mp3 Player Final Version.csproj.CoreCompileInputs.cache
+C:\Users\doofus\Desktop\Mp3 Player Final Version\Mp3 Player Final Version\obj\Debug\Mp3 Player Final Version.csproj.CopyComplete
+C:\Users\doofus\Desktop\Mp3 Player Final Version\Mp3 Player Final Version\obj\Debug\Mp3 Player Final Version.exe
+C:\Users\doofus\Desktop\Mp3 Player Final Version\Mp3 Player Final Version\obj\Debug\Mp3 Player Final Version.pdb
